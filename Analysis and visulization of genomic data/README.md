@@ -1,5 +1,5 @@
 # Genomics_finalProject
-This is a repository created to contain the scripts and detailed answers of the final project of the course Analysis and visualization of genomic data from the Master in Computational Biology of the UPM.
+This is a repository created to contain the scripts and detailed answers of the final project of the course Analysis and visualization of genomic data from the Master in Computational Biology of the UPM. (See instructions PDF to find the description of the project and details on each part).
 
 The project is divided in 7 parts:
 1. Metagenomics
