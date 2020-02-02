@@ -12,3 +12,7 @@ of seed left in the gene bank is, of course, not LESS than zero guiño
 
 2) Process the information in cross_data.tsv and determine which genes are genetically-linked. To achieve this, you will have to do a Chi-square test on the F2 cross data. If you discover genes that are linked, this information should be added as a property of each of the genes (they are both linked to each other).
 
+### Execute as  
+```
+ruby process_database.rb gene_information.tsv seed_stock_data.tsv cross_data.tsv new_stock_file.tsv
+```
