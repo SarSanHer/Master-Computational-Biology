@@ -6,3 +6,5 @@ When the viral load reaches 106, this person starts to be treated with an antivi
 
 Implement and simulate the dynamics of the process. Discuss how would the generation of mutants occur in a finite population (where stochastic effects are important and mean-field descriptions may fail). How long could it take for a mutant to appear?
 Discuss possible situations where the infection could be eradicated (joint action of the immune system, of an additional drug, or others).
+
+The explanation of the code and the conclusions can be found in the PDF in this directory.
